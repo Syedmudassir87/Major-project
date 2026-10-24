@@ -37,6 +37,7 @@ body{
 }
 
 .f-info {
+    margin-top: auto;
     height: 8rem;
     text-align: center;
     background-color: #ebebeb;
@@ -103,4 +104,25 @@ body{
 .add-btn{
     background-color: #fe424d !important;
     border: none !important;
+}
+
+/* edit page */
+
+.edit-btn{
+    background-color: #fe424d !important;
+    border: none !important;
+}
+/* show page */
+
+.show-img{
+    height: 30vh ;
+}
+
+.btns{
+    display: flex;
+}
+
+.show-card{
+    padding-left: 0;
+    padding-right: 0;
 }
